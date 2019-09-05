@@ -1,4 +1,4 @@
-# PC-AutoOff-C-Sharp
+# PC-AutoOff-C-Sharps
 Video: https://youtu.be/q2tn4H5xW0w?t=66
 
 Exe: http://www.mediafire.com/file/8oyct10snefzrlh/PC_AutoOff.exe/file
